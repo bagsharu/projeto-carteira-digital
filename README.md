@@ -27,7 +27,9 @@ O sistema contará com funcionalidades voltadas ao controle e acompanhamento de 
 
 ## 4. Tecnologias Utilizadas
 
-` `
+* Linguagem C: Utilizada para o desenvolvimento do sistema, empregando estruturas de dados (_struct_), algoritmos de ordenação (_Bubble Sort_) e funções de manipulação de arquivos .txt para garantir a persistência dos dados.
+
+* Visual Studio Code: Ambiente de desenvolvimento utilizado para a escrita, organização e manutenção do código-fonte do projeto.
 
 ## 5. Requisitos Mínimos
 
