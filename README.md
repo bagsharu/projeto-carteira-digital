@@ -33,12 +33,28 @@ O sistema contará com funcionalidades voltadas ao controle e acompanhamento de 
 
 ## 5. Requisitos Mínimos
 
-` `
+Para executar o sistema, é necessário possuir um computador com um **compilador de linguagem C** instalado, como o GCC, permitindo a compilação e execução do código-fonte diretamente pelo terminal.
 
 ## 6. Instruções para Execução
 
-` `
+Para executar o projeto, certifique-se de possuir um compilador C, como o GCC, instalado e configurado em seu computador.
+
+1. Clone o repositório:
+
+    git clone https://github.com/bagsharu/projeto-carteira-digital
+
+2. Acesse a pasta do projeto:
+
+    cd projeto-carteira-digital
+
+3. Compile os arquivos utilizando o GCC:
+
+    gcc src/main.c src/funcoes.c src/modulo.c -Iinclude -o carteira.exe
+
+4. Execute o programa pelo terminal:
+
+    .\carteira.exe
 
 ## 7. Desenvolvedores
 
-` `
+Bruna da Silva Sant'Ana e Gabriel Ortega Vieira
